@@ -11,7 +11,7 @@ For data exploration and analysis we used Python and were introduced to its modu
 Learned set of commands to get a feeling of the size of our dataset, the quality (especially the presence of missing values). We assessed whether we drop columns or rows or populate them with values (as so often: it depends!). Worked a lot with grouping and aggregating to retrieve answers to the business questions posed on our learning platform and later by ourselves. Enjoyed the flexibility of Seaborn (and the clean plot-display in VS Code). Also Figma was a great choice for our presentation, the free templates and community-created add-ons permit for beautiful presentation options.
 
 ## Challenges Overcame
-It sometimes can be easy to get lost in exploration and it's good to remind yourself often what exactly you were trying to find out. Also constant commenting makes life easier when working with multiple Googlew Colab notebooks at the same time. Ensuring that the group moves in the same direction is not always easy, especially when not all members are fans of group work and you only collaborate remotely. Compromising and a time schedule have been our approach that led to success.
+It sometimes can be easy to get lost in exploration and it's good to remind yourself often what exactly you were trying to find out. Also constant commenting makes life easier when working with multiple Google Colab notebooks at the same time. Ensuring that the group moves in the same direction is not always easy, especially when not all members are fans of group work and you only collaborate remotely. Compromising and a time schedule have been our approach that led to success.
 
 ## Additional reflections
-Enjoyed to tried to fill gaps that opened up. Used my business background to steer our analysis towards relevant fields.
+Enjoyed trying to fill gaps that opened up in our group work. Used my business background to steer our analysis towards relevant fields.
